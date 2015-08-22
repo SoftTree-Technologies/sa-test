@@ -1,0 +1,1 @@
+Code of external routine "win866_to_koi8r"(win866_to_koi8r) is not available

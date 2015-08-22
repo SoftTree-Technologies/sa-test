@@ -1,0 +1,1 @@
+Code of external routine "btendscan"(btendscan) is not available

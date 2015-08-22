@@ -1,0 +1,1 @@
+Code of external routine "replace"(replace_text) is not available

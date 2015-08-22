@@ -1,0 +1,1 @@
+Code of external routine "hashtext"(hashtext) is not available

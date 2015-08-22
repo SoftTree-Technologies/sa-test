@@ -1,0 +1,1 @@
+Code of external routine "array_gt"(array_gt) is not available

@@ -1,0 +1,1 @@
+Code of external routine "gtsvector_same"(gtsvector_same) is not available

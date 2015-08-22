@@ -1,0 +1,1 @@
+Code of external routine "macaddr_ne"(macaddr_ne) is not available

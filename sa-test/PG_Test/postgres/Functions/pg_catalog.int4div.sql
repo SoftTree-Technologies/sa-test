@@ -1,0 +1,1 @@
+Code of external routine "int4div"(int4div) is not available

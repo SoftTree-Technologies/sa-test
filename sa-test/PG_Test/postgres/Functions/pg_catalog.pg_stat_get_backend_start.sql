@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_backend_start"(pg_stat_get_backend_start) is not available

@@ -1,0 +1,1 @@
+Code of external routine "range_intersect"(range_intersect) is not available

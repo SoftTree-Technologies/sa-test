@@ -1,0 +1,1 @@
+Code of external routine "tsquery_ge"(tsquery_ge) is not available

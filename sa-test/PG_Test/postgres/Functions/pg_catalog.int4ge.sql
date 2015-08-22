@@ -1,0 +1,1 @@
+Code of external routine "int4ge"(int4ge) is not available

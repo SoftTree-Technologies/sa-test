@@ -1,0 +1,1 @@
+Code of external routine "database_to_xml"(database_to_xml) is not available

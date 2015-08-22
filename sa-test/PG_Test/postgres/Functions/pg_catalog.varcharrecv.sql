@@ -1,0 +1,1 @@
+Code of external routine "varcharrecv"(varcharrecv) is not available

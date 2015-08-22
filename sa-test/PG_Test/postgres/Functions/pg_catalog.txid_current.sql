@@ -1,0 +1,1 @@
+Code of external routine "txid_current"(txid_current) is not available

@@ -1,0 +1,1 @@
+Code of external routine "path_inter"(path_inter) is not available

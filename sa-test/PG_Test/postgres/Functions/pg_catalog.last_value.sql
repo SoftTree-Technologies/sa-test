@@ -1,0 +1,1 @@
+Code of external routine "last_value"(window_last_value) is not available

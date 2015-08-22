@@ -1,0 +1,1 @@
+Code of external routine "gist_circle_consistent"(gist_circle_consistent) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_identify_object"(pg_identify_object) is not available

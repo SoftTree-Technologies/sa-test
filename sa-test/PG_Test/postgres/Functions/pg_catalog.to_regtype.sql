@@ -1,0 +1,1 @@
+Code of external routine "to_regtype"(to_regtype) is not available

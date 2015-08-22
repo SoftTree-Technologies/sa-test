@@ -1,0 +1,1 @@
+Code of external routine "cash_send"(cash_send) is not available

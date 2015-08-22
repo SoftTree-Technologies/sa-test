@@ -1,0 +1,1 @@
+Code of external routine "make_timestamp"(make_timestamp) is not available

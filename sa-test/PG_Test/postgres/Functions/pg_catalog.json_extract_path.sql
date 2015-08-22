@@ -1,0 +1,1 @@
+Code of external routine "json_extract_path"(json_extract_path) is not available

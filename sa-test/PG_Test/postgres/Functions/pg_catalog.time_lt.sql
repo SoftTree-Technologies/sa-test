@@ -1,0 +1,1 @@
+Code of external routine "time_lt"(time_lt) is not available

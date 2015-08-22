@@ -1,0 +1,1 @@
+Code of external routine "varcharout"(varcharout) is not available

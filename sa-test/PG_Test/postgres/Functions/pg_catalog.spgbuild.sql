@@ -1,0 +1,1 @@
+Code of external routine "spgbuild"(spgbuild) is not available

@@ -1,0 +1,1 @@
+Code of external routine "int2ne"(int2ne) is not available

@@ -1,0 +1,1 @@
+Code of external routine "interval_mul"(interval_mul) is not available

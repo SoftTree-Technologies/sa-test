@@ -1,0 +1,1 @@
+Code of external routine "float8_regr_avgy"(float8_regr_avgy) is not available

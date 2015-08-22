@@ -1,0 +1,1 @@
+Code of external routine "gin_consistent_jsonb_path"(gin_consistent_jsonb_path) is not available

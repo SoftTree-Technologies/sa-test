@@ -1,0 +1,1 @@
+Code of external routine "get_bit"(byteaGetBit) is not available

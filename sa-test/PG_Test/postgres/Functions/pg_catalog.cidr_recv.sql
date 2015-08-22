@@ -1,0 +1,1 @@
+Code of external routine "cidr_recv"(cidr_recv) is not available

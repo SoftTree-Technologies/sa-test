@@ -1,0 +1,1 @@
+Code of external routine "box_same"(box_same) is not available

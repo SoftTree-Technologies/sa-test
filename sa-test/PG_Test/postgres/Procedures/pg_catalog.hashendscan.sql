@@ -1,0 +1,1 @@
+Code of external routine "hashendscan"(hashendscan) is not available

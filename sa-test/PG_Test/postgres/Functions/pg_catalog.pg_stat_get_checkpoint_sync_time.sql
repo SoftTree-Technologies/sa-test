@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_checkpoint_sync_time"(pg_stat_get_checkpoint_sync_time) is not available

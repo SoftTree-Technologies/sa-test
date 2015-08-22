@@ -1,0 +1,1 @@
+Code of external routine "pg_lsn_out"(pg_lsn_out) is not available

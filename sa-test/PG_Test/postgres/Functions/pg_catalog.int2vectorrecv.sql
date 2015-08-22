@@ -1,0 +1,1 @@
+Code of external routine "int2vectorrecv"(int2vectorrecv) is not available

@@ -1,0 +1,1 @@
+Code of external routine "int28lt"(int28lt) is not available

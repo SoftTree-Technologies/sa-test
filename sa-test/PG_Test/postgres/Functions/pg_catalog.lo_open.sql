@@ -1,0 +1,1 @@
+Code of external routine "lo_open"(lo_open) is not available

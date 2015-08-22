@@ -1,0 +1,1 @@
+Code of external routine "ginbeginscan"(ginbeginscan) is not available

@@ -1,0 +1,1 @@
+Code of external routine "fmgr_c_validator"(fmgr_c_validator) is not available

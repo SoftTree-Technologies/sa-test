@@ -1,0 +1,1 @@
+Code of external routine "regoperatorrecv"(regoperatorrecv) is not available

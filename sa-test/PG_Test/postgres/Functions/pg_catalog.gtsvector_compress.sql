@@ -1,0 +1,1 @@
+Code of external routine "gtsvector_compress"(gtsvector_compress) is not available

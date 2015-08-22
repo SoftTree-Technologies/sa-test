@@ -1,0 +1,1 @@
+Code of external routine "shift_jis_2004_to_utf8"(shift_jis_2004_to_utf8) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_read_file"(pg_read_file) is not available

@@ -1,0 +1,1 @@
+Code of external routine "spg_range_quad_picksplit"(spg_range_quad_picksplit) is not available

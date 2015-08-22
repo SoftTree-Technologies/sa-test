@@ -1,0 +1,1 @@
+Code of external routine "byteaeq"(byteaeq) is not available

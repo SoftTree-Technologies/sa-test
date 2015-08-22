@@ -1,0 +1,1 @@
+Code of external routine "pg_get_functiondef"(pg_get_functiondef) is not available

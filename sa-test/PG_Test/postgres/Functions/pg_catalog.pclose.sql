@@ -1,0 +1,1 @@
+Code of external routine "pclose"(path_close) is not available

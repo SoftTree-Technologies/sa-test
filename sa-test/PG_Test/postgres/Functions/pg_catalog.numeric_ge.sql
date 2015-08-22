@@ -1,0 +1,1 @@
+Code of external routine "numeric_ge"(numeric_ge) is not available

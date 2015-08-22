@@ -1,0 +1,1 @@
+Code of external routine "ginrescan"(ginrescan) is not available

@@ -1,0 +1,1 @@
+Code of external routine "spgoptions"(spgoptions) is not available

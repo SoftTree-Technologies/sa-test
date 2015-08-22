@@ -1,0 +1,1 @@
+Code of external routine "spgrestrpos"(spgrestrpos) is not available

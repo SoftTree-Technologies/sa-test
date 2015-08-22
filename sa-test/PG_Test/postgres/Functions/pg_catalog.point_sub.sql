@@ -1,0 +1,1 @@
+Code of external routine "point_sub"(point_sub) is not available

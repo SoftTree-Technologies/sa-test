@@ -1,0 +1,1 @@
+Code of external routine "inet_gist_same"(inet_gist_same) is not available

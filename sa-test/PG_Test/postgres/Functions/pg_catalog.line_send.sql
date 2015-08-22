@@ -1,0 +1,1 @@
+Code of external routine "line_send"(line_send) is not available

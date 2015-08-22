@@ -1,0 +1,1 @@
+Code of external routine "time_eq"(time_eq) is not available

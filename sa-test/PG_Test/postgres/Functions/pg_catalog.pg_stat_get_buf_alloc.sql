@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_buf_alloc"(pg_stat_get_buf_alloc) is not available

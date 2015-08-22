@@ -1,0 +1,1 @@
+Code of external routine "textsend"(textsend) is not available

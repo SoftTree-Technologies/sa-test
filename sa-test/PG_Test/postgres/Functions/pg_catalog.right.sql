@@ -1,0 +1,1 @@
+Code of external routine "right"(text_right) is not available

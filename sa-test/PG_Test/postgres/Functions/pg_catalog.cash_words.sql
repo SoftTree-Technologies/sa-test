@@ -1,0 +1,1 @@
+Code of external routine "cash_words"(cash_words) is not available

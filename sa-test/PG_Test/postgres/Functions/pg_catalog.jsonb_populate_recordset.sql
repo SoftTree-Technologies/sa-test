@@ -1,0 +1,1 @@
+Code of external routine "jsonb_populate_recordset"(jsonb_populate_recordset) is not available

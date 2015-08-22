@@ -1,0 +1,1 @@
+Code of external routine "chr"(chr) is not available

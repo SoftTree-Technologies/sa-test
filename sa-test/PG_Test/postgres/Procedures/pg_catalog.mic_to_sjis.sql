@@ -1,0 +1,1 @@
+Code of external routine "mic_to_sjis"(mic_to_sjis) is not available

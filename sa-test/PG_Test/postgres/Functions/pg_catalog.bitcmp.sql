@@ -1,0 +1,1 @@
+Code of external routine "bitcmp"(bitcmp) is not available

@@ -1,0 +1,1 @@
+Code of external routine "regoperatorin"(regoperatorin) is not available

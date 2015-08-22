@@ -1,0 +1,1 @@
+Code of external routine "inet_gist_consistent"(inet_gist_consistent) is not available

@@ -1,0 +1,1 @@
+Code of external routine "byteale"(byteale) is not available

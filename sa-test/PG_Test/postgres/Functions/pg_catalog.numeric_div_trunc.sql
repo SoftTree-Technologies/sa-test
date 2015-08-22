@@ -1,0 +1,1 @@
+Code of external routine "numeric_div_trunc"(numeric_div_trunc) is not available

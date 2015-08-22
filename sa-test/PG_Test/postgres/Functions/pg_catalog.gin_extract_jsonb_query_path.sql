@@ -1,0 +1,1 @@
+Code of external routine "gin_extract_jsonb_query_path"(gin_extract_jsonb_query_path) is not available

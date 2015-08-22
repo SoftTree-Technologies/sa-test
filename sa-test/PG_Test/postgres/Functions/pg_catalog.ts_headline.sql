@@ -1,0 +1,1 @@
+Code of external routine "ts_headline"(ts_headline_byid_opt) is not available

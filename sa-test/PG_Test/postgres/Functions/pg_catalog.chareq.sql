@@ -1,0 +1,1 @@
+Code of external routine "chareq"(chareq) is not available

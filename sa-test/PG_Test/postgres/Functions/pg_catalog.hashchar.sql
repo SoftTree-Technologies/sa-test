@@ -1,0 +1,1 @@
+Code of external routine "hashchar"(hashchar) is not available

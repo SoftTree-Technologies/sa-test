@@ -1,0 +1,1 @@
+Code of external routine "tidin"(tidin) is not available

@@ -1,0 +1,1 @@
+Code of external routine "cardinality"(array_cardinality) is not available

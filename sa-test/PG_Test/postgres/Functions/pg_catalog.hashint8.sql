@@ -1,0 +1,1 @@
+Code of external routine "hashint8"(hashint8) is not available

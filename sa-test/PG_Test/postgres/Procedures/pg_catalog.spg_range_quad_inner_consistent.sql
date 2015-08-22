@@ -1,0 +1,1 @@
+Code of external routine "spg_range_quad_inner_consistent"(spg_range_quad_inner_consistent) is not available

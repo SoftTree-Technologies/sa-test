@@ -1,0 +1,1 @@
+Code of external routine "textlike"(textlike) is not available

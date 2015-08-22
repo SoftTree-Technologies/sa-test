@@ -1,0 +1,1 @@
+Code of external routine "bytea_string_agg_finalfn"(bytea_string_agg_finalfn) is not available

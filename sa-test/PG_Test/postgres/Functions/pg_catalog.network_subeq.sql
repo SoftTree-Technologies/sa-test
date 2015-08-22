@@ -1,0 +1,1 @@
+Code of external routine "network_subeq"(network_subeq) is not available

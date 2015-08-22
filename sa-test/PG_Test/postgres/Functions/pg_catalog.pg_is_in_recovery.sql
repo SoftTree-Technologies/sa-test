@@ -1,0 +1,1 @@
+Code of external routine "pg_is_in_recovery"(pg_is_in_recovery) is not available

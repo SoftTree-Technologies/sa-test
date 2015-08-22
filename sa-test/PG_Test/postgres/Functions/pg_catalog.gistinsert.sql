@@ -1,0 +1,1 @@
+Code of external routine "gistinsert"(gistinsert) is not available

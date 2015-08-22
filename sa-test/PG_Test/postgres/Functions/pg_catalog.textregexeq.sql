@@ -1,0 +1,1 @@
+Code of external routine "textregexeq"(textregexeq) is not available

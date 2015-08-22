@@ -1,0 +1,1 @@
+Code of external routine "gb18030_to_utf8"(gb18030_to_utf8) is not available

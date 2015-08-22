@@ -1,0 +1,1 @@
+Code of external routine "bpcharlt"(bpcharlt) is not available

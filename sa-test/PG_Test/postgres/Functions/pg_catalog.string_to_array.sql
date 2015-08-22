@@ -1,0 +1,1 @@
+Code of external routine "string_to_array"(text_to_array) is not available

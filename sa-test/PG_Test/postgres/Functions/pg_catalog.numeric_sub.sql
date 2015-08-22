@@ -1,0 +1,1 @@
+Code of external routine "numeric_sub"(numeric_sub) is not available

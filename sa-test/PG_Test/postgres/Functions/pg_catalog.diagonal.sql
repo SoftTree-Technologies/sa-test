@@ -1,0 +1,1 @@
+Code of external routine "diagonal"(box_diagonal) is not available

@@ -1,0 +1,1 @@
+Code of external routine "utf8_to_euc_jp"(utf8_to_euc_jp) is not available

@@ -1,0 +1,1 @@
+Code of external routine "record_eq"(record_eq) is not available

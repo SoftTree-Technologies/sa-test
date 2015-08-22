@@ -1,0 +1,1 @@
+Code of external routine "gtsquery_union"(gtsquery_union) is not available

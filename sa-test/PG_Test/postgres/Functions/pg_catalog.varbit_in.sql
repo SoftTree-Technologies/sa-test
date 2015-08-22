@@ -1,0 +1,1 @@
+Code of external routine "varbit_in"(varbit_in) is not available

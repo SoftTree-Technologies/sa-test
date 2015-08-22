@@ -1,0 +1,1 @@
+Code of external routine "text_lt"(text_lt) is not available

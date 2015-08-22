@@ -1,0 +1,1 @@
+Code of external routine "xml_recv"(xml_recv) is not available

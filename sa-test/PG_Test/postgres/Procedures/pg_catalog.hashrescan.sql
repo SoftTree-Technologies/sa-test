@@ -1,0 +1,1 @@
+Code of external routine "hashrescan"(hashrescan) is not available

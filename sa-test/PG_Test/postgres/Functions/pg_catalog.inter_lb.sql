@@ -1,0 +1,1 @@
+Code of external routine "inter_lb"(inter_lb) is not available

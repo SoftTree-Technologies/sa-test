@@ -1,0 +1,1 @@
+Code of external routine "nth_value"(window_nth_value) is not available

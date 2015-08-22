@@ -1,0 +1,1 @@
+Code of external routine "btrestrpos"(btrestrpos) is not available

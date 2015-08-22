@@ -1,0 +1,1 @@
+Code of external routine "float8_regr_intercept"(float8_regr_intercept) is not available

@@ -1,0 +1,1 @@
+Code of external routine "inetmi_int8"(inetmi_int8) is not available

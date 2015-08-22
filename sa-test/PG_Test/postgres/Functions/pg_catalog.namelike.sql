@@ -1,0 +1,1 @@
+Code of external routine "namelike"(namelike) is not available

@@ -1,0 +1,1 @@
+Code of external routine "bitxor"(bitxor) is not available

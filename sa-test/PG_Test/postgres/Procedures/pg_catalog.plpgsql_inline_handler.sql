@@ -1,0 +1,1 @@
+Code of external routine "plpgsql_inline_handler"(plpgsql_inline_handler) is not available

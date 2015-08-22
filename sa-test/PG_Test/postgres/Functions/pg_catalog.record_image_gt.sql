@@ -1,0 +1,1 @@
+Code of external routine "record_image_gt"(record_image_gt) is not available

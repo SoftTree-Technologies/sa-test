@@ -1,0 +1,1 @@
+Code of external routine "setseed"(setseed) is not available

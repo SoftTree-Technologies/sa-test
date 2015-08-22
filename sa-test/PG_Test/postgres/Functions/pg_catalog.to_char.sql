@@ -1,0 +1,1 @@
+Code of external routine "to_char"(timestamptz_to_char) is not available

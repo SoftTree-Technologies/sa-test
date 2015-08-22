@@ -1,0 +1,1 @@
+Code of external routine "point_out"(point_out) is not available

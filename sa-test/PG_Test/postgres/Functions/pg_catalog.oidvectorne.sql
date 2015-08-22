@@ -1,0 +1,1 @@
+Code of external routine "oidvectorne"(oidvectorne) is not available

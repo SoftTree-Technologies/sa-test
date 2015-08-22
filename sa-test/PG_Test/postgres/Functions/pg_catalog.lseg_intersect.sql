@@ -1,0 +1,1 @@
+Code of external routine "lseg_intersect"(lseg_intersect) is not available

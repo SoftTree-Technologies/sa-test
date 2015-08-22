@@ -1,0 +1,1 @@
+Code of external routine "lo_from_bytea"(lo_from_bytea) is not available

@@ -1,0 +1,1 @@
+Code of external routine "line_intersect"(line_intersect) is not available

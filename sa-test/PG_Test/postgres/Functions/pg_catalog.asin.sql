@@ -1,0 +1,1 @@
+Code of external routine "asin"(dasin) is not available

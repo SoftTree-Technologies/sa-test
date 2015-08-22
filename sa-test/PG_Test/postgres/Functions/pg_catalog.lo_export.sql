@@ -1,0 +1,1 @@
+Code of external routine "lo_export"(lo_export) is not available

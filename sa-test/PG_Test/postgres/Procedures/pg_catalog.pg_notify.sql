@@ -1,0 +1,1 @@
+Code of external routine "pg_notify"(pg_notify) is not available

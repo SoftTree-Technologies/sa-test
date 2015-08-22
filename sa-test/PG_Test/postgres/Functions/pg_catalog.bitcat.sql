@@ -1,0 +1,1 @@
+Code of external routine "bitcat"(bitcat) is not available

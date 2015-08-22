@@ -1,0 +1,1 @@
+Code of external routine "pg_event_trigger_dropped_objects"(pg_event_trigger_dropped_objects) is not available

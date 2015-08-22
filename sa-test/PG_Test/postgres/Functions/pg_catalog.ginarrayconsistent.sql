@@ -1,0 +1,1 @@
+Code of external routine "ginarrayconsistent"(ginarrayconsistent) is not available

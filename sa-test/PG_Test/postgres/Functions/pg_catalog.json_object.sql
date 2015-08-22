@@ -1,0 +1,1 @@
+Code of external routine "json_object"(json_object) is not available

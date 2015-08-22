@@ -1,0 +1,1 @@
+Code of external routine "date_smaller"(date_smaller) is not available

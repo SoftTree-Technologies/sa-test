@@ -1,0 +1,1 @@
+Code of external routine "fdw_handler_out"(fdw_handler_out) is not available

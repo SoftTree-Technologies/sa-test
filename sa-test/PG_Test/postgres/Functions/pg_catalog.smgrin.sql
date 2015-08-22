@@ -1,0 +1,1 @@
+Code of external routine "smgrin"(smgrin) is not available

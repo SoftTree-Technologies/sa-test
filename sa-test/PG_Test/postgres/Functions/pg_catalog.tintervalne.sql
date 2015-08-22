@@ -1,0 +1,1 @@
+Code of external routine "tintervalne"(tintervalne) is not available

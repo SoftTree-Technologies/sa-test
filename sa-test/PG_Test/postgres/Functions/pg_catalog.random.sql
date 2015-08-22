@@ -1,0 +1,1 @@
+Code of external routine "random"(drandom) is not available

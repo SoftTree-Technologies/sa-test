@@ -1,0 +1,1 @@
+Code of external routine "pg_lsn_gt"(pg_lsn_gt) is not available

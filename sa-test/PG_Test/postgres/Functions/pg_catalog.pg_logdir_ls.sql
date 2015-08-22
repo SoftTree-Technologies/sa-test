@@ -1,0 +1,1 @@
+Code of external routine "pg_logdir_ls"(pg_logdir_ls) is not available

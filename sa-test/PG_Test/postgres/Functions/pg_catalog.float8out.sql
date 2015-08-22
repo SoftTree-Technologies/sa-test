@@ -1,0 +1,1 @@
+Code of external routine "float8out"(float8out) is not available

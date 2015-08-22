@@ -1,0 +1,1 @@
+Code of external routine "numeric_transform"(numeric_transform) is not available

@@ -1,0 +1,1 @@
+Code of external routine "json_array_elements_text"(json_array_elements_text) is not available

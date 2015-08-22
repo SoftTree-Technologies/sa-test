@@ -1,0 +1,1 @@
+Code of external routine "pg_ts_dict_is_visible"(pg_ts_dict_is_visible) is not available

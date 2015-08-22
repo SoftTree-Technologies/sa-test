@@ -1,0 +1,1 @@
+Code of external routine "dsimple_init"(dsimple_init) is not available

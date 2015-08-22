@@ -1,0 +1,1 @@
+Code of external routine "xmlexists"(xmlexists) is not available

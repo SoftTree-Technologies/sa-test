@@ -1,0 +1,1 @@
+Code of external routine "json_agg_finalfn"(json_agg_finalfn) is not available

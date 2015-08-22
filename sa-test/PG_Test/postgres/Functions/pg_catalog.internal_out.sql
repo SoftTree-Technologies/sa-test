@@ -1,0 +1,1 @@
+Code of external routine "internal_out"(internal_out) is not available

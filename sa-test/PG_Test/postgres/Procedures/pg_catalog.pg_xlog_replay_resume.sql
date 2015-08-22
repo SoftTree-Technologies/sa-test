@@ -1,0 +1,1 @@
+Code of external routine "pg_xlog_replay_resume"(pg_xlog_replay_resume) is not available

@@ -1,0 +1,1 @@
+Code of external routine "lo_lseek"(lo_lseek) is not available

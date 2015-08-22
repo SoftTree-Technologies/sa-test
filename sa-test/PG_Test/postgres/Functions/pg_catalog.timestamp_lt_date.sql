@@ -1,0 +1,1 @@
+Code of external routine "timestamp_lt_date"(timestamp_lt_date) is not available

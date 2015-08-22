@@ -1,0 +1,1 @@
+Code of external routine "RI_FKey_noaction_del"(RI_FKey_noaction_del) is not available

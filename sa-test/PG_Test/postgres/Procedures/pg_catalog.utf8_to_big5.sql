@@ -1,0 +1,1 @@
+Code of external routine "utf8_to_big5"(utf8_to_big5) is not available

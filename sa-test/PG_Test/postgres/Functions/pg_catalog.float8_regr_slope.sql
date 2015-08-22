@@ -1,0 +1,1 @@
+Code of external routine "float8_regr_slope"(float8_regr_slope) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_has_role"(pg_has_role_name_name) is not available

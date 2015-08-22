@@ -1,0 +1,1 @@
+Code of external routine "int4_avg_accum"(int4_avg_accum) is not available

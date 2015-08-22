@@ -1,0 +1,1 @@
+Code of external routine "tsquery_and"(tsquery_and) is not available

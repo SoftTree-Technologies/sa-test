@@ -1,0 +1,1 @@
+Code of external routine "hashvarlena"(hashvarlena) is not available

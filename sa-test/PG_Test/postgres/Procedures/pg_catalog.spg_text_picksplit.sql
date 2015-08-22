@@ -1,0 +1,1 @@
+Code of external routine "spg_text_picksplit"(spg_text_picksplit) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_lsn_eq"(pg_lsn_eq) is not available

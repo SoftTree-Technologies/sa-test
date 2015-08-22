@@ -1,0 +1,1 @@
+Code of external routine "int24ne"(int24ne) is not available

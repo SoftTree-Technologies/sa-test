@@ -1,0 +1,1 @@
+Code of external routine "pg_is_in_backup"(pg_is_in_backup) is not available

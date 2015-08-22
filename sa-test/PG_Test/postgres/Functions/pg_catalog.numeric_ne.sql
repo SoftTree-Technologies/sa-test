@@ -1,0 +1,1 @@
+Code of external routine "numeric_ne"(numeric_ne) is not available

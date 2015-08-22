@@ -1,0 +1,1 @@
+Code of external routine "pg_listening_channels"(pg_listening_channels) is not available

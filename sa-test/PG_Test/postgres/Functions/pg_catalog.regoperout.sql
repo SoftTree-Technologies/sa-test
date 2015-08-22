@@ -1,0 +1,1 @@
+Code of external routine "regoperout"(regoperout) is not available

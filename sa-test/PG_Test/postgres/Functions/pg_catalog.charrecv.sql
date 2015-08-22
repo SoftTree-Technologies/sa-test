@@ -1,0 +1,1 @@
+Code of external routine "charrecv"(charrecv) is not available

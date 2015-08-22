@@ -1,0 +1,1 @@
+Code of external routine "float8_avg"(float8_avg) is not available

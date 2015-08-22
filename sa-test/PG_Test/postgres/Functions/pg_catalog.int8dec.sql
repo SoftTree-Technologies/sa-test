@@ -1,0 +1,1 @@
+Code of external routine "int8dec"(int8dec) is not available

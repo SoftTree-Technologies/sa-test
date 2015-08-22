@@ -1,0 +1,1 @@
+Code of external routine "int42eq"(int42eq) is not available

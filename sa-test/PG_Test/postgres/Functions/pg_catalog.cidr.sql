@@ -1,0 +1,1 @@
+Code of external routine "cidr"(inet_to_cidr) is not available

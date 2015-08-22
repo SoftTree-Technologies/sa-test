@@ -1,0 +1,1 @@
+Code of external routine "gin_cmp_tslexeme"(gin_cmp_tslexeme) is not available

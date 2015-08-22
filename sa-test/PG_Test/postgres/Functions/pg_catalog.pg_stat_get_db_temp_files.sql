@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_db_temp_files"(pg_stat_get_db_temp_files) is not available

@@ -1,0 +1,1 @@
+Code of external routine "jsonb_eq"(jsonb_eq) is not available

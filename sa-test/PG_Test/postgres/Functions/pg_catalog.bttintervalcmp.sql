@@ -1,0 +1,1 @@
+Code of external routine "bttintervalcmp"(bttintervalcmp) is not available

@@ -1,0 +1,1 @@
+Code of external routine "oid"(i8tooid) is not available

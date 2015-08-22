@@ -1,0 +1,1 @@
+Code of external routine "pg_advisory_xact_lock_shared"(pg_advisory_xact_lock_shared_int8) is not available

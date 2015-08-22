@@ -1,0 +1,1 @@
+Code of external routine "lo_unlink"(lo_unlink) is not available

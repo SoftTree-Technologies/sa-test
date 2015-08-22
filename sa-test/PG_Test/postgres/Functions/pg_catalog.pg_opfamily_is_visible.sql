@@ -1,0 +1,1 @@
+Code of external routine "pg_opfamily_is_visible"(pg_opfamily_is_visible) is not available

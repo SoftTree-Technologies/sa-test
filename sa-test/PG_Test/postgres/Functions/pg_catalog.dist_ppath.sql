@@ -1,0 +1,1 @@
+Code of external routine "dist_ppath"(dist_ppath) is not available

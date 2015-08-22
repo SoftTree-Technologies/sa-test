@@ -1,0 +1,1 @@
+Code of external routine "suppress_redundant_updates_trigger"(suppress_redundant_updates_trigger) is not available

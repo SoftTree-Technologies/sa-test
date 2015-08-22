@@ -1,0 +1,1 @@
+Code of external routine "bool_alltrue"(bool_alltrue) is not available

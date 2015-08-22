@@ -1,0 +1,1 @@
+Code of external routine "iso_to_win1251"(iso_to_win1251) is not available

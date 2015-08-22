@@ -1,0 +1,1 @@
+Code of external routine "win1251_to_mic"(win1251_to_mic) is not available

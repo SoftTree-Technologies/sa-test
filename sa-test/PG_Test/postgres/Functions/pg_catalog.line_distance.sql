@@ -1,0 +1,1 @@
+Code of external routine "line_distance"(line_distance) is not available

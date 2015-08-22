@@ -1,0 +1,1 @@
+Code of external routine "numeric_lt"(numeric_lt) is not available

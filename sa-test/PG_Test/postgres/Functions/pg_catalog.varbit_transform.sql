@@ -1,0 +1,1 @@
+Code of external routine "varbit_transform"(varbit_transform) is not available

@@ -1,0 +1,1 @@
+Code of external routine "numeric_avg"(numeric_avg) is not available

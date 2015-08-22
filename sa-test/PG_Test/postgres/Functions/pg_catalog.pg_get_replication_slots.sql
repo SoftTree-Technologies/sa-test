@@ -1,0 +1,1 @@
+Code of external routine "pg_get_replication_slots"(pg_get_replication_slots) is not available

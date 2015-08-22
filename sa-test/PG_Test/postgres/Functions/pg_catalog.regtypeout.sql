@@ -1,0 +1,1 @@
+Code of external routine "regtypeout"(regtypeout) is not available

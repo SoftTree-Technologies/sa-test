@@ -1,0 +1,1 @@
+Code of external routine "inet_out"(inet_out) is not available

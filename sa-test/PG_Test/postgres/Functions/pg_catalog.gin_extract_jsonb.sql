@@ -1,0 +1,1 @@
+Code of external routine "gin_extract_jsonb"(gin_extract_jsonb) is not available

@@ -1,0 +1,1 @@
+Code of external routine "shell_in"(shell_in) is not available

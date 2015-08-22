@@ -1,0 +1,1 @@
+Code of external routine "ts_rank_cd"(ts_rankcd_wttf) is not available

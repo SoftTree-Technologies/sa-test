@@ -1,0 +1,1 @@
+Code of external routine "btoidvectorcmp"(btoidvectorcmp) is not available

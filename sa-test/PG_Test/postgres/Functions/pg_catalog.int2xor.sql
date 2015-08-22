@@ -1,0 +1,1 @@
+Code of external routine "int2xor"(int2xor) is not available

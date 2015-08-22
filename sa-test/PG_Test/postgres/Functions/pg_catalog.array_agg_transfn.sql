@@ -1,0 +1,1 @@
+Code of external routine "array_agg_transfn"(array_agg_transfn) is not available

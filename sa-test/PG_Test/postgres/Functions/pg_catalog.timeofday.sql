@@ -1,0 +1,1 @@
+Code of external routine "timeofday"(timeofday) is not available

@@ -1,0 +1,1 @@
+Code of external routine "hashoptions"(hashoptions) is not available

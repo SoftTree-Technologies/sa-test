@@ -1,0 +1,1 @@
+Code of external routine "tsvector_update_trigger_column"(tsvector_update_trigger_bycolumn) is not available

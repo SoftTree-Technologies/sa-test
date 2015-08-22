@@ -1,0 +1,1 @@
+Code of external routine "utf8_to_win"(utf8_to_win) is not available

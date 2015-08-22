@@ -1,0 +1,1 @@
+Code of external routine "circle_overlap"(circle_overlap) is not available

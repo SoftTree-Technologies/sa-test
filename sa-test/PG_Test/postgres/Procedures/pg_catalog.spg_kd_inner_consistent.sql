@@ -1,0 +1,1 @@
+Code of external routine "spg_kd_inner_consistent"(spg_kd_inner_consistent) is not available

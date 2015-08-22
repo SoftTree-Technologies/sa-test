@@ -1,0 +1,1 @@
+Code of external routine "oidout"(oidout) is not available

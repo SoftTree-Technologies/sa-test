@@ -1,0 +1,1 @@
+Code of external routine "line_interpt"(line_interpt) is not available

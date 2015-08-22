@@ -1,0 +1,1 @@
+Code of external routine "varbitle"(bitle) is not available

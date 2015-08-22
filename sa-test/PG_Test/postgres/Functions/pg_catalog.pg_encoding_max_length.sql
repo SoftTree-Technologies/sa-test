@@ -1,0 +1,1 @@
+Code of external routine "pg_encoding_max_length"(pg_encoding_max_length_sql) is not available

@@ -1,0 +1,1 @@
+Code of external routine "gistgetbitmap"(gistgetbitmap) is not available

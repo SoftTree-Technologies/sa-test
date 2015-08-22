@@ -1,0 +1,1 @@
+Code of external routine "int4"(chartoi4) is not available

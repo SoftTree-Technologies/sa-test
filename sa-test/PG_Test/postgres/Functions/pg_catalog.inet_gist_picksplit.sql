@@ -1,0 +1,1 @@
+Code of external routine "inet_gist_picksplit"(inet_gist_picksplit) is not available

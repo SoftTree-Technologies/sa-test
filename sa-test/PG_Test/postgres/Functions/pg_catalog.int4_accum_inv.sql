@@ -1,0 +1,1 @@
+Code of external routine "int4_accum_inv"(int4_accum_inv) is not available

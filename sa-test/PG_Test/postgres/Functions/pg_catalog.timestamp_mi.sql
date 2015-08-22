@@ -1,0 +1,1 @@
+Code of external routine "timestamp_mi"(timestamp_mi) is not available

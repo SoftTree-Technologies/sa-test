@@ -1,0 +1,1 @@
+Code of external routine "float8_stddev_pop"(float8_stddev_pop) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_blocks_fetched"(pg_stat_get_blocks_fetched) is not available

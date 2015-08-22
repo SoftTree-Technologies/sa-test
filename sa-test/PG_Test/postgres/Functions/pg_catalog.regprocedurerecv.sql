@@ -1,0 +1,1 @@
+Code of external routine "regprocedurerecv"(regprocedurerecv) is not available

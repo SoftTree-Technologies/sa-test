@@ -1,0 +1,1 @@
+Code of external routine "cideq"(cideq) is not available

@@ -1,0 +1,1 @@
+Code of external routine "dsynonym_init"(dsynonym_init) is not available

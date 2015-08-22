@@ -1,0 +1,1 @@
+Code of external routine "percent_rank_final"(hypothetical_percent_rank_final) is not available

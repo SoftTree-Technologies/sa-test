@@ -1,0 +1,1 @@
+Code of external routine "inetor"(inetor) is not available

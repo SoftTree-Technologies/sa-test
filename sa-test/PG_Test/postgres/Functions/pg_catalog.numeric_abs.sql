@@ -1,0 +1,1 @@
+Code of external routine "numeric_abs"(numeric_abs) is not available

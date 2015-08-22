@@ -1,0 +1,1 @@
+Code of external routine "cash_lt"(cash_lt) is not available

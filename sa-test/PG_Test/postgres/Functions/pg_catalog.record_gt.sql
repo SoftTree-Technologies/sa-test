@@ -1,0 +1,1 @@
+Code of external routine "record_gt"(record_gt) is not available

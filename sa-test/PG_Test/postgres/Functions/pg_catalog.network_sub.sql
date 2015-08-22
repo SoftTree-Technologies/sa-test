@@ -1,0 +1,1 @@
+Code of external routine "network_sub"(network_sub) is not available

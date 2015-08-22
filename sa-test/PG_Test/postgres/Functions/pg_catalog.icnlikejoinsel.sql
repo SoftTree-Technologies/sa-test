@@ -1,0 +1,1 @@
+Code of external routine "icnlikejoinsel"(icnlikejoinsel) is not available

@@ -1,0 +1,1 @@
+Code of external routine "ginrestrpos"(ginrestrpos) is not available

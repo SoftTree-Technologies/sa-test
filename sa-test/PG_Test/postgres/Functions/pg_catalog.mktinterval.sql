@@ -1,0 +1,1 @@
+Code of external routine "mktinterval"(mktinterval) is not available

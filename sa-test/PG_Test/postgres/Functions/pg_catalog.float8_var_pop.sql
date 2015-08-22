@@ -1,0 +1,1 @@
+Code of external routine "float8_var_pop"(float8_var_pop) is not available

@@ -1,0 +1,1 @@
+Code of external routine "tidne"(tidne) is not available

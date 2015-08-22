@@ -1,0 +1,1 @@
+Code of external routine "oideq"(oideq) is not available

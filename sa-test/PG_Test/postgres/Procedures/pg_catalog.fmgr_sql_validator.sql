@@ -1,0 +1,1 @@
+Code of external routine "fmgr_sql_validator"(fmgr_sql_validator) is not available

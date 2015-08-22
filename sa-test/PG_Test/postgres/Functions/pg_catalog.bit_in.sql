@@ -1,0 +1,1 @@
+Code of external routine "bit_in"(bit_in) is not available

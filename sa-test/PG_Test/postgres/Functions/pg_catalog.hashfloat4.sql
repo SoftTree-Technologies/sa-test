@@ -1,0 +1,1 @@
+Code of external routine "hashfloat4"(hashfloat4) is not available

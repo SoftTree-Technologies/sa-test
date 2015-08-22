@@ -1,0 +1,1 @@
+Code of external routine "shift_jis_2004_to_euc_jis_2004"(shift_jis_2004_to_euc_jis_2004) is not available

@@ -1,0 +1,1 @@
+Code of external routine "lseg_length"(lseg_length) is not available

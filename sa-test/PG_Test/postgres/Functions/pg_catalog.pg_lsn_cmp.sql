@@ -1,0 +1,1 @@
+Code of external routine "pg_lsn_cmp"(pg_lsn_cmp) is not available

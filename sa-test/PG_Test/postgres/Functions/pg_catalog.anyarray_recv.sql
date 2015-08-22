@@ -1,0 +1,1 @@
+Code of external routine "anyarray_recv"(anyarray_recv) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_total_relation_size"(pg_total_relation_size) is not available

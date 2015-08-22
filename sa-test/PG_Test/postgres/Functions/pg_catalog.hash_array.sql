@@ -1,0 +1,1 @@
+Code of external routine "hash_array"(hash_array) is not available

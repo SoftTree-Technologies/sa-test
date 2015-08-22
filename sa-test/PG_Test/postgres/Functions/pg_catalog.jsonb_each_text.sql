@@ -1,0 +1,1 @@
+Code of external routine "jsonb_each_text"(jsonb_each_text) is not available

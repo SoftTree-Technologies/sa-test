@@ -1,0 +1,1 @@
+Code of external routine "pg_show_all_settings"(show_all_settings) is not available

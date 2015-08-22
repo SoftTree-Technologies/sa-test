@@ -1,0 +1,1 @@
+Code of external routine "hashint2vector"(hashint2vector) is not available

@@ -1,0 +1,1 @@
+Code of external routine "current_query"(current_query) is not available

@@ -1,0 +1,1 @@
+Code of external routine "record_recv"(record_recv) is not available

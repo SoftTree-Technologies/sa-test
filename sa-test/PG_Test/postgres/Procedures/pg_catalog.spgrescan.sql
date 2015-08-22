@@ -1,0 +1,1 @@
+Code of external routine "spgrescan"(spgrescan) is not available

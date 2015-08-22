@@ -1,0 +1,1 @@
+Code of external routine "ginmarkpos"(ginmarkpos) is not available

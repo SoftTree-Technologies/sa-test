@@ -1,0 +1,1 @@
+Code of external routine "dispell_init"(dispell_init) is not available

@@ -1,0 +1,1 @@
+Code of external routine "bpcharout"(bpcharout) is not available

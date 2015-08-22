@@ -1,0 +1,1 @@
+Code of external routine "interval_accum_inv"(interval_accum_inv) is not available

@@ -1,0 +1,1 @@
+Code of external routine "bpchar_pattern_lt"(bpchar_pattern_lt) is not available

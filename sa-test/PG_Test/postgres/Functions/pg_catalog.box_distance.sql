@@ -1,0 +1,1 @@
+Code of external routine "box_distance"(box_distance) is not available

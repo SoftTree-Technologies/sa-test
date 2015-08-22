@@ -1,0 +1,1 @@
+Code of external routine "cstring_recv"(cstring_recv) is not available

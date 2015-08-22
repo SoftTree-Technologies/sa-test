@@ -1,0 +1,1 @@
+Code of external routine "statement_timestamp"(statement_timestamp) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_node_tree_recv"(pg_node_tree_recv) is not available

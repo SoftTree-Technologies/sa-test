@@ -1,0 +1,1 @@
+Code of external routine "bttext_pattern_cmp"(bttext_pattern_cmp) is not available

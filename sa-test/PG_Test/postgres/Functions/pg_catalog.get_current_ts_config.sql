@@ -1,0 +1,1 @@
+Code of external routine "get_current_ts_config"(get_current_ts_config) is not available

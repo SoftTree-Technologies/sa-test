@@ -1,0 +1,1 @@
+Code of external routine "gist_poly_consistent"(gist_poly_consistent) is not available

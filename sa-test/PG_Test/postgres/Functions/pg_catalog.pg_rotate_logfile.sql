@@ -1,0 +1,1 @@
+Code of external routine "pg_rotate_logfile"(pg_rotate_logfile) is not available

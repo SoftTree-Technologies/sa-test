@@ -1,0 +1,1 @@
+Code of external routine "namege"(namege) is not available

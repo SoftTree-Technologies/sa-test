@@ -1,0 +1,1 @@
+Code of external routine "jsonb_exists"(jsonb_exists) is not available

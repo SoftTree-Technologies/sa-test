@@ -1,0 +1,1 @@
+Code of external routine "int28eq"(int28eq) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_advisory_unlock_all"(pg_advisory_unlock_all) is not available

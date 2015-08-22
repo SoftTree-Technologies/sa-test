@@ -1,0 +1,1 @@
+Code of external routine "spginsert"(spginsert) is not available

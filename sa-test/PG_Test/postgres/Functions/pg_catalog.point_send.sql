@@ -1,0 +1,1 @@
+Code of external routine "point_send"(point_send) is not available

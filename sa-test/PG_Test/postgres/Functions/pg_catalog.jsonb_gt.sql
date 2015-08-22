@@ -1,0 +1,1 @@
+Code of external routine "jsonb_gt"(jsonb_gt) is not available

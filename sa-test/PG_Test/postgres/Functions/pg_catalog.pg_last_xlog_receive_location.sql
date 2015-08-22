@@ -1,0 +1,1 @@
+Code of external routine "pg_last_xlog_receive_location"(pg_last_xlog_receive_location) is not available

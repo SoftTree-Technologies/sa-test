@@ -1,0 +1,1 @@
+Code of external routine "row_to_json"(row_to_json) is not available

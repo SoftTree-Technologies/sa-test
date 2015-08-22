@@ -1,0 +1,1 @@
+Code of external routine "spgcostestimate"(spgcostestimate) is not available

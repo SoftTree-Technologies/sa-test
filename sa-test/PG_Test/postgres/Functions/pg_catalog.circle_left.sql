@@ -1,0 +1,1 @@
+Code of external routine "circle_left"(circle_left) is not available

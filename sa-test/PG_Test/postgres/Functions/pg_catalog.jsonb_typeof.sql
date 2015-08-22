@@ -1,0 +1,1 @@
+Code of external routine "jsonb_typeof"(jsonb_typeof) is not available

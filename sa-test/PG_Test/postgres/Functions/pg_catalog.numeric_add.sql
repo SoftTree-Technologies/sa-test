@@ -1,0 +1,1 @@
+Code of external routine "numeric_add"(numeric_add) is not available

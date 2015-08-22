@@ -1,0 +1,1 @@
+Code of external routine "dense_rank_final"(hypothetical_dense_rank_final) is not available

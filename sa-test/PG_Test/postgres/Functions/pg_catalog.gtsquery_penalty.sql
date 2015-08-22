@@ -1,0 +1,1 @@
+Code of external routine "gtsquery_penalty"(gtsquery_penalty) is not available

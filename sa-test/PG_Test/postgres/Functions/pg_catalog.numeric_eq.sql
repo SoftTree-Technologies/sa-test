@@ -1,0 +1,1 @@
+Code of external routine "numeric_eq"(numeric_eq) is not available

@@ -1,0 +1,1 @@
+Code of external routine "atan"(datan) is not available

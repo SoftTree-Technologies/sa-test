@@ -1,0 +1,1 @@
+Code of external routine "int4eq"(int4eq) is not available

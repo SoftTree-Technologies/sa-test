@@ -1,0 +1,1 @@
+Code of external routine "gin_compare_jsonb"(gin_compare_jsonb) is not available

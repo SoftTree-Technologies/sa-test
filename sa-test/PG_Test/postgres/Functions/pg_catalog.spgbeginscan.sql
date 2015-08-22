@@ -1,0 +1,1 @@
+Code of external routine "spgbeginscan"(spgbeginscan) is not available

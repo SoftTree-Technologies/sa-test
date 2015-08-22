@@ -1,0 +1,1 @@
+Code of external routine "nlikejoinsel"(nlikejoinsel) is not available

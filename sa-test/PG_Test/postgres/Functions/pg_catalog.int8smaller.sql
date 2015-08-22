@@ -1,0 +1,1 @@
+Code of external routine "int8smaller"(int8smaller) is not available

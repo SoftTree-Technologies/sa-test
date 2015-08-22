@@ -1,0 +1,1 @@
+Code of external routine "utf8_to_euc_tw"(utf8_to_euc_tw) is not available

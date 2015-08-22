@@ -1,0 +1,1 @@
+Code of external routine "close_lseg"(close_lseg) is not available

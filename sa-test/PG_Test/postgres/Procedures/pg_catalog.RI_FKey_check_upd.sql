@@ -1,0 +1,1 @@
+Code of external routine "RI_FKey_check_upd"(RI_FKey_check_upd) is not available

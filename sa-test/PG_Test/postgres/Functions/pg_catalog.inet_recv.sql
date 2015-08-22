@@ -1,0 +1,1 @@
+Code of external routine "inet_recv"(inet_recv) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_get_viewdef"(pg_get_viewdef_name) is not available

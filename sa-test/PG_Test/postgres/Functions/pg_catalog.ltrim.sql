@@ -1,0 +1,1 @@
+Code of external routine "ltrim"(ltrim) is not available

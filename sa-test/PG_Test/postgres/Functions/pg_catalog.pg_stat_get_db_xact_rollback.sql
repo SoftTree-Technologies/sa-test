@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_db_xact_rollback"(pg_stat_get_db_xact_rollback) is not available

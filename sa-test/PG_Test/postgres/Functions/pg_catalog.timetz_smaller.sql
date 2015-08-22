@@ -1,0 +1,1 @@
+Code of external routine "timetz_smaller"(timetz_smaller) is not available

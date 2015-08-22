@@ -1,0 +1,1 @@
+Code of external routine "tsvectorout"(tsvectorout) is not available

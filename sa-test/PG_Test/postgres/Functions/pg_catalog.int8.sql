@@ -1,0 +1,1 @@
+Code of external routine "int8"(int48) is not available

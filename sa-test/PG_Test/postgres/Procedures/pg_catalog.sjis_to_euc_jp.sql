@@ -1,0 +1,1 @@
+Code of external routine "sjis_to_euc_jp"(sjis_to_euc_jp) is not available

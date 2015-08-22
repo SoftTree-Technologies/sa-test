@@ -1,0 +1,1 @@
+Code of external routine "jsonb_contained"(jsonb_contained) is not available

@@ -1,0 +1,1 @@
+Code of external routine "cidrecv"(cidrecv) is not available

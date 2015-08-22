@@ -1,0 +1,1 @@
+Code of external routine "cash_ge"(cash_ge) is not available

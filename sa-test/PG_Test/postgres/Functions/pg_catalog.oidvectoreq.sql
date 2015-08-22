@@ -1,0 +1,1 @@
+Code of external routine "oidvectoreq"(oidvectoreq) is not available

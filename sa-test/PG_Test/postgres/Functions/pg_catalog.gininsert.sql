@@ -1,0 +1,1 @@
+Code of external routine "gininsert"(gininsert) is not available

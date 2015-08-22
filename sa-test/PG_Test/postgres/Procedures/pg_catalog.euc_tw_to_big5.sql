@@ -1,0 +1,1 @@
+Code of external routine "euc_tw_to_big5"(euc_tw_to_big5) is not available

@@ -1,0 +1,1 @@
+Code of external routine "line_eq"(line_eq) is not available

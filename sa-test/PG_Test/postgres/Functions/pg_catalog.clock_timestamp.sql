@@ -1,0 +1,1 @@
+Code of external routine "clock_timestamp"(clock_timestamp) is not available

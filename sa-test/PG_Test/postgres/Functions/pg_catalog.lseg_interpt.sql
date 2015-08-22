@@ -1,0 +1,1 @@
+Code of external routine "lseg_interpt"(lseg_interpt) is not available

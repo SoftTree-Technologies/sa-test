@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_db_blk_read_time"(pg_stat_get_db_blk_read_time) is not available

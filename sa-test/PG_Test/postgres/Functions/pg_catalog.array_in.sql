@@ -1,0 +1,1 @@
+Code of external routine "array_in"(array_in) is not available

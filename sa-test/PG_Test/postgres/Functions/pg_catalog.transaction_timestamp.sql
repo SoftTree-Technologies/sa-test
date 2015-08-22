@@ -1,0 +1,1 @@
+Code of external routine "transaction_timestamp"(now) is not available

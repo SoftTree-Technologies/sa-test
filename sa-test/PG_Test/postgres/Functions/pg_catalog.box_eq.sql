@@ -1,0 +1,1 @@
+Code of external routine "box_eq"(box_eq) is not available

@@ -1,0 +1,1 @@
+Code of external routine "texteq"(texteq) is not available

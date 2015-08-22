@@ -1,0 +1,1 @@
+Code of external routine "interval_recv"(interval_recv) is not available

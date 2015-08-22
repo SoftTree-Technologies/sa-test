@@ -1,0 +1,1 @@
+Code of external routine "int84eq"(int84eq) is not available

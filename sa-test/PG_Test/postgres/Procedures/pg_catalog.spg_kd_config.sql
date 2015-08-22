@@ -1,0 +1,1 @@
+Code of external routine "spg_kd_config"(spg_kd_config) is not available

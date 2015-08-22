@@ -1,0 +1,1 @@
+Code of external routine "utf8_to_sjis"(utf8_to_sjis) is not available

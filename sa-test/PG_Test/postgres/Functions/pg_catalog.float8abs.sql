@@ -1,0 +1,1 @@
+Code of external routine "float8abs"(float8abs) is not available

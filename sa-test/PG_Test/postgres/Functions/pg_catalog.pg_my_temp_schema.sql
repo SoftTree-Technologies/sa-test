@@ -1,0 +1,1 @@
+Code of external routine "pg_my_temp_schema"(pg_my_temp_schema) is not available

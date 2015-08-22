@@ -1,0 +1,1 @@
+Code of external routine "namegt"(namegt) is not available

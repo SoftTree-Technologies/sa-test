@@ -1,0 +1,1 @@
+Code of external routine "cash_cmp"(cash_cmp) is not available

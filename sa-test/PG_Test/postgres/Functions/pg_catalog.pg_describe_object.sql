@@ -1,0 +1,1 @@
+Code of external routine "pg_describe_object"(pg_describe_object) is not available

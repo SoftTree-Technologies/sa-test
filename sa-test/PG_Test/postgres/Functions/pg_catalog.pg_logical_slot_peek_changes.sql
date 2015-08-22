@@ -1,0 +1,1 @@
+Code of external routine "pg_logical_slot_peek_changes"(pg_logical_slot_peek_changes) is not available

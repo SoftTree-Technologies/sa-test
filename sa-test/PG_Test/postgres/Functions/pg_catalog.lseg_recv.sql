@@ -1,0 +1,1 @@
+Code of external routine "lseg_recv"(lseg_recv) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_tablespace_location"(pg_tablespace_location) is not available

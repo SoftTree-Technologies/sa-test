@@ -1,0 +1,1 @@
+Code of external routine "date_ne"(date_ne) is not available

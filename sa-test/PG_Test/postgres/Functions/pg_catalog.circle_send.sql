@@ -1,0 +1,1 @@
+Code of external routine "circle_send"(circle_send) is not available

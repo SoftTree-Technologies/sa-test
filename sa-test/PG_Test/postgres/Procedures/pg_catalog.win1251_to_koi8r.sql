@@ -1,0 +1,1 @@
+Code of external routine "win1251_to_koi8r"(win1251_to_koi8r) is not available

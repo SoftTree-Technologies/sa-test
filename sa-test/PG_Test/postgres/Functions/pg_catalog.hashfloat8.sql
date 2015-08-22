@@ -1,0 +1,1 @@
+Code of external routine "hashfloat8"(hashfloat8) is not available

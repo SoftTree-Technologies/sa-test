@@ -1,0 +1,1 @@
+Code of external routine "pg_create_physical_replication_slot"(pg_create_physical_replication_slot) is not available

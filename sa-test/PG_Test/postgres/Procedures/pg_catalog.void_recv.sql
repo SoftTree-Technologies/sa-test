@@ -1,0 +1,1 @@
+Code of external routine "void_recv"(void_recv) is not available

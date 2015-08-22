@@ -1,0 +1,1 @@
+Code of external routine "varbitlt"(bitlt) is not available

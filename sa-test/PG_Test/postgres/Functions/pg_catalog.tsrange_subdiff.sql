@@ -1,0 +1,1 @@
+Code of external routine "tsrange_subdiff"(tsrange_subdiff) is not available

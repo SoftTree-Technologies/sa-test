@@ -1,0 +1,1 @@
+Code of external routine "bpcharnlike"(textnlike) is not available

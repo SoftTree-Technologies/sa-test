@@ -1,0 +1,1 @@
+Code of external routine "float8div"(float8div) is not available

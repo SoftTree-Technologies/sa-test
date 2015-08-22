@@ -1,0 +1,1 @@
+Code of external routine "enum_first"(enum_first) is not available

@@ -1,0 +1,1 @@
+Code of external routine "hashvacuumcleanup"(hashvacuumcleanup) is not available

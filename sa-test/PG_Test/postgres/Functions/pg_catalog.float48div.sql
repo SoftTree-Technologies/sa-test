@@ -1,0 +1,1 @@
+Code of external routine "float48div"(float48div) is not available

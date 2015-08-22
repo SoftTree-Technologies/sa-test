@@ -1,0 +1,1 @@
+Code of external routine "pg_tablespace_size"(pg_tablespace_size_oid) is not available

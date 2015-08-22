@@ -1,0 +1,1 @@
+Code of external routine "int2or"(int2or) is not available

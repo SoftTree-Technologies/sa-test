@@ -1,0 +1,1 @@
+Code of external routine "array_typanalyze"(array_typanalyze) is not available

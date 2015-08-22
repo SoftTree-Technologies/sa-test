@@ -1,0 +1,1 @@
+Code of external routine "big5_to_mic"(big5_to_mic) is not available

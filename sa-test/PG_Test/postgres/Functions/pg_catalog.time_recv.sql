@@ -1,0 +1,1 @@
+Code of external routine "time_recv"(time_recv) is not available

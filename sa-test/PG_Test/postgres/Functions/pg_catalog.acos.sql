@@ -1,0 +1,1 @@
+Code of external routine "acos"(dacos) is not available

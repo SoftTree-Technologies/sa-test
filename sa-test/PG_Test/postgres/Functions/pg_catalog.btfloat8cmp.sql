@@ -1,0 +1,1 @@
+Code of external routine "btfloat8cmp"(btfloat8cmp) is not available

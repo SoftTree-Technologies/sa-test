@@ -1,0 +1,1 @@
+Code of external routine "range_gist_picksplit"(range_gist_picksplit) is not available

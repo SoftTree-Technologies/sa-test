@@ -1,0 +1,1 @@
+Code of external routine "spg_kd_choose"(spg_kd_choose) is not available

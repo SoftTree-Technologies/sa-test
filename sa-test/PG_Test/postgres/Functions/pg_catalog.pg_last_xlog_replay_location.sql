@@ -1,0 +1,1 @@
+Code of external routine "pg_last_xlog_replay_location"(pg_last_xlog_replay_location) is not available

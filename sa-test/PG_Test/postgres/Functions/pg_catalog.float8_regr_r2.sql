@@ -1,0 +1,1 @@
+Code of external routine "float8_regr_r2"(float8_regr_r2) is not available

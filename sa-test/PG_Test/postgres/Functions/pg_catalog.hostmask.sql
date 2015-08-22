@@ -1,0 +1,1 @@
+Code of external routine "hostmask"(network_hostmask) is not available

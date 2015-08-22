@@ -1,0 +1,1 @@
+Code of external routine "sin"(dsin) is not available

@@ -1,0 +1,1 @@
+Code of external routine "network_lt"(network_lt) is not available

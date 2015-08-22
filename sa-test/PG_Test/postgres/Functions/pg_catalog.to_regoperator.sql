@@ -1,0 +1,1 @@
+Code of external routine "to_regoperator"(to_regoperator) is not available

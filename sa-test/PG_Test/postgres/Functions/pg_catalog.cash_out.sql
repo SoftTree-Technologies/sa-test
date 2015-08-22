@@ -1,0 +1,1 @@
+Code of external routine "cash_out"(cash_out) is not available

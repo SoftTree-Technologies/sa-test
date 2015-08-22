@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_clear_snapshot"(pg_stat_clear_snapshot) is not available

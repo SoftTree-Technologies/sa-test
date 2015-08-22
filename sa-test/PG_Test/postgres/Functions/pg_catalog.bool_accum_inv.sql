@@ -1,0 +1,1 @@
+Code of external routine "bool_accum_inv"(bool_accum_inv) is not available

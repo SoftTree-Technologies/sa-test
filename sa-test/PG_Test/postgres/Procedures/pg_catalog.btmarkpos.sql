@@ -1,0 +1,1 @@
+Code of external routine "btmarkpos"(btmarkpos) is not available

@@ -1,0 +1,1 @@
+Code of external routine "jsonb_array_element"(jsonb_array_element) is not available

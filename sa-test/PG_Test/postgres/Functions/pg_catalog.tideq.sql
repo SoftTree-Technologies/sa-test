@@ -1,0 +1,1 @@
+Code of external routine "tideq"(tideq) is not available

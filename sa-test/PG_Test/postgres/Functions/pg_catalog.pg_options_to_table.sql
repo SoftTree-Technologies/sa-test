@@ -1,0 +1,1 @@
+Code of external routine "pg_options_to_table"(pg_options_to_table) is not available

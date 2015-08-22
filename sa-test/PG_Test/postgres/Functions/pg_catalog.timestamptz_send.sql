@@ -1,0 +1,1 @@
+Code of external routine "timestamptz_send"(timestamptz_send) is not available

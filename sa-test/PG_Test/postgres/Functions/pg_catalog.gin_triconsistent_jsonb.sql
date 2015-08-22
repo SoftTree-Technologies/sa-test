@@ -1,0 +1,1 @@
+Code of external routine "gin_triconsistent_jsonb"(gin_triconsistent_jsonb) is not available

@@ -1,0 +1,1 @@
+Code of external routine "record_ge"(record_ge) is not available

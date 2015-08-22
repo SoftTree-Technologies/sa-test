@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_reset_single_function_counters"(pg_stat_reset_single_function_counters) is not available

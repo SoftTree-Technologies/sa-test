@@ -1,0 +1,1 @@
+Code of external routine "tintervalsame"(tintervalsame) is not available

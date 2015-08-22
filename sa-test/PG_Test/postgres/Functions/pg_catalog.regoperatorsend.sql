@@ -1,0 +1,1 @@
+Code of external routine "regoperatorsend"(regoperatorsend) is not available

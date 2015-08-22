@@ -1,0 +1,1 @@
+Code of external routine "interval_avg"(interval_avg) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_lsn_recv"(pg_lsn_recv) is not available

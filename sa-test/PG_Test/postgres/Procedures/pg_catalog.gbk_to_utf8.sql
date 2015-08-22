@@ -1,0 +1,1 @@
+Code of external routine "gbk_to_utf8"(gbk_to_utf8) is not available

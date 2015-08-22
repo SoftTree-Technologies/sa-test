@@ -1,0 +1,1 @@
+Code of external routine "koi8r_to_mic"(koi8r_to_mic) is not available

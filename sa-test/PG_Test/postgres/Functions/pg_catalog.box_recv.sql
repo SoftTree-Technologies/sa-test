@@ -1,0 +1,1 @@
+Code of external routine "box_recv"(box_recv) is not available

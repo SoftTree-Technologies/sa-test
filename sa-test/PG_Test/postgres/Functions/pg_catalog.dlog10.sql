@@ -1,0 +1,1 @@
+Code of external routine "dlog10"(dlog10) is not available

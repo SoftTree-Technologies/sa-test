@@ -1,0 +1,1 @@
+Code of external routine "win1251_to_win866"(win1251_to_win866) is not available

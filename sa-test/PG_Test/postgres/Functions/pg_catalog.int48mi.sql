@@ -1,0 +1,1 @@
+Code of external routine "int48mi"(int48mi) is not available

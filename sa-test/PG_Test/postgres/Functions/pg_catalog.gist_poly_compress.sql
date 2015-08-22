@@ -1,0 +1,1 @@
+Code of external routine "gist_poly_compress"(gist_poly_compress) is not available

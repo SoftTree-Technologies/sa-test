@@ -1,0 +1,1 @@
+Code of external routine "pg_cursor"(pg_cursor) is not available

@@ -1,0 +1,1 @@
+Code of external routine "range_typanalyze"(range_typanalyze) is not available

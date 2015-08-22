@@ -1,0 +1,1 @@
+Code of external routine "lseg_parallel"(lseg_parallel) is not available

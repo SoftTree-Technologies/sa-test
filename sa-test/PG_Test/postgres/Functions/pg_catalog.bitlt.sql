@@ -1,0 +1,1 @@
+Code of external routine "bitlt"(bitlt) is not available

@@ -1,0 +1,1 @@
+Code of external routine "spgendscan"(spgendscan) is not available

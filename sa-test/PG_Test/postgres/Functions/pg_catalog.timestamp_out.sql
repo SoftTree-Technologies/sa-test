@@ -1,0 +1,1 @@
+Code of external routine "timestamp_out"(timestamp_out) is not available

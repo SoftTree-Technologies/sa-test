@@ -1,0 +1,1 @@
+Code of external routine "spg_range_quad_config"(spg_range_quad_config) is not available

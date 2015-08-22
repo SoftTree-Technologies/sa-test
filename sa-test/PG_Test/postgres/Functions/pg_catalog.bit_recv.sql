@@ -1,0 +1,1 @@
+Code of external routine "bit_recv"(bit_recv) is not available

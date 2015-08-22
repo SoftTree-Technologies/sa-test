@@ -1,0 +1,1 @@
+Code of external routine "xideq"(xideq) is not available

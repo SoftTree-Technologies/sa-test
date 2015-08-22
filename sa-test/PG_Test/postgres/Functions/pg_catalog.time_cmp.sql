@@ -1,0 +1,1 @@
+Code of external routine "time_cmp"(time_cmp) is not available

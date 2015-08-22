@@ -1,0 +1,1 @@
+Code of external routine "split_part"(split_text) is not available

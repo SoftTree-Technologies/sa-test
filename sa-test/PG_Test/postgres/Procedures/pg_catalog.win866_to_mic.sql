@@ -1,0 +1,1 @@
+Code of external routine "win866_to_mic"(win866_to_mic) is not available

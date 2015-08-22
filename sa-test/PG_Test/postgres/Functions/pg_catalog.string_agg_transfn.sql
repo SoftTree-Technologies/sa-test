@@ -1,0 +1,1 @@
+Code of external routine "string_agg_transfn"(string_agg_transfn) is not available

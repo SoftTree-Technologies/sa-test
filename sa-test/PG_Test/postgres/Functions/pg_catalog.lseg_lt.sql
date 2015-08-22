@@ -1,0 +1,1 @@
+Code of external routine "lseg_lt"(lseg_lt) is not available

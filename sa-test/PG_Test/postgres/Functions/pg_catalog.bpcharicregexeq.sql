@@ -1,0 +1,1 @@
+Code of external routine "bpcharicregexeq"(texticregexeq) is not available

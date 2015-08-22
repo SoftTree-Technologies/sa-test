@@ -1,0 +1,1 @@
+Code of external routine "row_number"(window_row_number) is not available

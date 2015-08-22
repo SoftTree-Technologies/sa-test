@@ -1,0 +1,1 @@
+Code of external routine "numeric_inc"(numeric_inc) is not available

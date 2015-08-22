@@ -1,0 +1,1 @@
+Code of external routine "bytea_string_agg_transfn"(bytea_string_agg_transfn) is not available

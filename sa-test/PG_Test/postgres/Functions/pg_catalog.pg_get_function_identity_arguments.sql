@@ -1,0 +1,1 @@
+Code of external routine "pg_get_function_identity_arguments"(pg_get_function_identity_arguments) is not available

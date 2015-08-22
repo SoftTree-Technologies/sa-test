@@ -1,0 +1,1 @@
+Code of external routine "enum_smaller"(enum_smaller) is not available

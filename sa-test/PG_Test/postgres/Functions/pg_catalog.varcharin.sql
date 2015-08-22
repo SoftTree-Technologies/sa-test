@@ -1,0 +1,1 @@
+Code of external routine "varcharin"(varcharin) is not available

@@ -1,0 +1,1 @@
+Code of external routine "oidvectorlt"(oidvectorlt) is not available

@@ -1,0 +1,1 @@
+Code of external routine "enum_eq"(enum_eq) is not available

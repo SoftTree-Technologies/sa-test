@@ -1,0 +1,1 @@
+Code of external routine "text_le"(text_le) is not available

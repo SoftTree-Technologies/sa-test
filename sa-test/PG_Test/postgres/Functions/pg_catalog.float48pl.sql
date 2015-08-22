@@ -1,0 +1,1 @@
+Code of external routine "float48pl"(float48pl) is not available

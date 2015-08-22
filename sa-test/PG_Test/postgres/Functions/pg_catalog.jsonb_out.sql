@@ -1,0 +1,1 @@
+Code of external routine "jsonb_out"(jsonb_out) is not available

@@ -1,0 +1,1 @@
+Code of external routine "circle_same"(circle_same) is not available

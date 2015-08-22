@@ -1,0 +1,1 @@
+Code of external routine "has_database_privilege"(has_database_privilege_name_name) is not available

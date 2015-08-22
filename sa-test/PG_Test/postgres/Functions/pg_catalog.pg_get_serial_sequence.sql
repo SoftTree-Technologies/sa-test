@@ -1,0 +1,1 @@
+Code of external routine "pg_get_serial_sequence"(pg_get_serial_sequence) is not available

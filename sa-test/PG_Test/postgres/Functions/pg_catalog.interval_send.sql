@@ -1,0 +1,1 @@
+Code of external routine "interval_send"(interval_send) is not available

@@ -1,0 +1,1 @@
+Code of external routine "interval_cmp"(interval_cmp) is not available

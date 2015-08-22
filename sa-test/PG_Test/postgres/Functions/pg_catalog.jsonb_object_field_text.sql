@@ -1,0 +1,1 @@
+Code of external routine "jsonb_object_field_text"(jsonb_object_field_text) is not available

@@ -1,0 +1,1 @@
+Code of external routine "time_pl_interval"(time_pl_interval) is not available

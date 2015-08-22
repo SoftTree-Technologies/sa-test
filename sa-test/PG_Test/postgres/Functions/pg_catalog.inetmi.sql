@@ -1,0 +1,1 @@
+Code of external routine "inetmi"(inetmi) is not available

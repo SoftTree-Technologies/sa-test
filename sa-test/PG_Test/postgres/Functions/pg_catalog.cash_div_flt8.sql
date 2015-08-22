@@ -1,0 +1,1 @@
+Code of external routine "cash_div_flt8"(cash_div_flt8) is not available

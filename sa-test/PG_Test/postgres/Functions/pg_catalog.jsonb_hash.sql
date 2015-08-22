@@ -1,0 +1,1 @@
+Code of external routine "jsonb_hash"(jsonb_hash) is not available

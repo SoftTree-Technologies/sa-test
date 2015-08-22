@@ -1,0 +1,1 @@
+Code of external routine "numeric_recv"(numeric_recv) is not available

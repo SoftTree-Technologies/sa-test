@@ -1,0 +1,1 @@
+Code of external routine "cash_div_int2"(cash_div_int2) is not available

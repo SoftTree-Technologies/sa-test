@@ -1,0 +1,1 @@
+Code of external routine "euc_jp_to_mic"(euc_jp_to_mic) is not available

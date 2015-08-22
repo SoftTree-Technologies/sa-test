@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_db_xact_commit"(pg_stat_get_db_xact_commit) is not available

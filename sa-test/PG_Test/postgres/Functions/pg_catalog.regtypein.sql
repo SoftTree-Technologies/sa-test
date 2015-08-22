@@ -1,0 +1,1 @@
+Code of external routine "regtypein"(regtypein) is not available

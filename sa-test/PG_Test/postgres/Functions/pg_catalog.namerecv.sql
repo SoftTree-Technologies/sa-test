@@ -1,0 +1,1 @@
+Code of external routine "namerecv"(namerecv) is not available

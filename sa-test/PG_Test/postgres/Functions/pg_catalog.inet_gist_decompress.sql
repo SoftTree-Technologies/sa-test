@@ -1,0 +1,1 @@
+Code of external routine "inet_gist_decompress"(inet_gist_decompress) is not available

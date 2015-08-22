@@ -1,0 +1,1 @@
+Code of external routine "texticregexne"(texticregexne) is not available

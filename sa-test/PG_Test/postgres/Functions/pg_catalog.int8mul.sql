@@ -1,0 +1,1 @@
+Code of external routine "int8mul"(int8mul) is not available

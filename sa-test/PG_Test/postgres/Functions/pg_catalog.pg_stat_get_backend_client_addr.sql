@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_backend_client_addr"(pg_stat_get_backend_client_addr) is not available

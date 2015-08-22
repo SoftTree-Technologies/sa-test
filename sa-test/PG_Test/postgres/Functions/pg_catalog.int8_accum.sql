@@ -1,0 +1,1 @@
+Code of external routine "int8_accum"(int8_accum) is not available

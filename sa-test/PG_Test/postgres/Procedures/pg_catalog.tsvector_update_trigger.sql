@@ -1,0 +1,1 @@
+Code of external routine "tsvector_update_trigger"(tsvector_update_trigger_byid) is not available

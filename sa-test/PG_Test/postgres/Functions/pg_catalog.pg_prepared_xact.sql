@@ -1,0 +1,1 @@
+Code of external routine "pg_prepared_xact"(pg_prepared_xact) is not available

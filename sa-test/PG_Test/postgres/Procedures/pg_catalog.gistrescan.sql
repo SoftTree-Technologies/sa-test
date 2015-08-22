@@ -1,0 +1,1 @@
+Code of external routine "gistrescan"(gistrescan) is not available

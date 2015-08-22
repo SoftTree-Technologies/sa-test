@@ -1,0 +1,1 @@
+Code of external routine "numeric_out"(numeric_out) is not available

@@ -1,0 +1,1 @@
+Code of external routine "btint2cmp"(btint2cmp) is not available

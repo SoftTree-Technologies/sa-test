@@ -1,0 +1,1 @@
+Code of external routine "bittypmodin"(bittypmodin) is not available

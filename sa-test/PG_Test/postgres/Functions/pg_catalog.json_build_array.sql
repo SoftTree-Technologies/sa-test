@@ -1,0 +1,1 @@
+Code of external routine "json_build_array"(json_build_array) is not available

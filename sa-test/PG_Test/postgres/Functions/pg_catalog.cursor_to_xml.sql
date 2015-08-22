@@ -1,0 +1,1 @@
+Code of external routine "cursor_to_xml"(cursor_to_xml) is not available

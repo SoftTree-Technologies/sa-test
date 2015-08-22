@@ -1,0 +1,1 @@
+Code of external routine "regdictionaryout"(regdictionaryout) is not available

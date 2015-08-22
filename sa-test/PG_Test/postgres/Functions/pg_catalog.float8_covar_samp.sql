@@ -1,0 +1,1 @@
+Code of external routine "float8_covar_samp"(float8_covar_samp) is not available

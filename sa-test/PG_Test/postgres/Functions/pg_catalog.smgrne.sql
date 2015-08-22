@@ -1,0 +1,1 @@
+Code of external routine "smgrne"(smgrne) is not available

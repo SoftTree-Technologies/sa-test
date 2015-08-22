@@ -1,0 +1,1 @@
+Code of external routine "line_recv"(line_recv) is not available

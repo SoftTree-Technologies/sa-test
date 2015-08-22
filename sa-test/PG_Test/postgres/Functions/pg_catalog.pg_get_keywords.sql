@@ -1,0 +1,1 @@
+Code of external routine "pg_get_keywords"(pg_get_keywords) is not available

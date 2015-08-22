@@ -1,0 +1,1 @@
+Code of external routine "bitand"(bit_and) is not available

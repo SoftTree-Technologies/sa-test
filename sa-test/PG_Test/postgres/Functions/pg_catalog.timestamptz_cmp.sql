@@ -1,0 +1,1 @@
+Code of external routine "timestamptz_cmp"(timestamp_cmp) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_db_tuples_deleted"(pg_stat_get_db_tuples_deleted) is not available

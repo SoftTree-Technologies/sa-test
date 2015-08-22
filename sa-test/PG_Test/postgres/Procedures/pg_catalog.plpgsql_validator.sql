@@ -1,0 +1,1 @@
+Code of external routine "plpgsql_validator"(plpgsql_validator) is not available

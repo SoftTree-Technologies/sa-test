@@ -1,0 +1,1 @@
+Code of external routine "text_larger"(text_larger) is not available

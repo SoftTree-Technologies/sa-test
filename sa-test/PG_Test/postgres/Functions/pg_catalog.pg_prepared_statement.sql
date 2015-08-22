@@ -1,0 +1,1 @@
+Code of external routine "pg_prepared_statement"(pg_prepared_statement) is not available

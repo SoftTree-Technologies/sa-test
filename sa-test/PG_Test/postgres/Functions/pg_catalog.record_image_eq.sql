@@ -1,0 +1,1 @@
+Code of external routine "record_image_eq"(record_image_eq) is not available

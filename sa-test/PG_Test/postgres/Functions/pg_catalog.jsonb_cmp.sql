@@ -1,0 +1,1 @@
+Code of external routine "jsonb_cmp"(jsonb_cmp) is not available

@@ -1,0 +1,1 @@
+Code of external routine "point_eq"(point_eq) is not available

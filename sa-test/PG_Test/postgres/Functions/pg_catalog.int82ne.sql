@@ -1,0 +1,1 @@
+Code of external routine "int82ne"(int82ne) is not available

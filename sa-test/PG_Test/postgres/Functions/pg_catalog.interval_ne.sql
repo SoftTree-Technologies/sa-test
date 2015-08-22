@@ -1,0 +1,1 @@
+Code of external routine "interval_ne"(interval_ne) is not available

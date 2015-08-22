@@ -1,0 +1,1 @@
+Code of external routine "query_to_xmlschema"(query_to_xmlschema) is not available

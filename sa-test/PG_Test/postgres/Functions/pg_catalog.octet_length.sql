@@ -1,0 +1,1 @@
+Code of external routine "octet_length"(byteaoctetlen) is not available

@@ -1,0 +1,1 @@
+Code of external routine "regdictionarysend"(regdictionarysend) is not available

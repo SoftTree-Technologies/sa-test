@@ -1,0 +1,1 @@
+Code of external routine "pg_logical_slot_get_binary_changes"(pg_logical_slot_get_binary_changes) is not available

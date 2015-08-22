@@ -1,0 +1,1 @@
+Code of external routine "inet_gist_union"(inet_gist_union) is not available

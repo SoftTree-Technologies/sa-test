@@ -1,0 +1,1 @@
+Code of external routine "gin_extract_tsquery"(gin_extract_tsquery) is not available

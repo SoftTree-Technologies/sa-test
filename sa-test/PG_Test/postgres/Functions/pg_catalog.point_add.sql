@@ -1,0 +1,1 @@
+Code of external routine "point_add"(point_add) is not available

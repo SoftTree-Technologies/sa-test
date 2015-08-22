@@ -1,0 +1,1 @@
+Code of external routine "regtypesend"(regtypesend) is not available

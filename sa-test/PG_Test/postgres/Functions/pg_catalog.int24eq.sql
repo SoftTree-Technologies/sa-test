@@ -1,0 +1,1 @@
+Code of external routine "int24eq"(int24eq) is not available

@@ -1,0 +1,1 @@
+Code of external routine "has_foreign_data_wrapper_privilege"(has_foreign_data_wrapper_privilege_name_name) is not available

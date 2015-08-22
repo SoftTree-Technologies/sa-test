@@ -1,0 +1,1 @@
+Code of external routine "gin_tsquery_triconsistent"(gin_tsquery_triconsistent) is not available

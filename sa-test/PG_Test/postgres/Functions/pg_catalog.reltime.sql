@@ -1,0 +1,1 @@
+Code of external routine "reltime"(interval_reltime) is not available

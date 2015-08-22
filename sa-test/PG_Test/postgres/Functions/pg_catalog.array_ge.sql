@@ -1,0 +1,1 @@
+Code of external routine "array_ge"(array_ge) is not available

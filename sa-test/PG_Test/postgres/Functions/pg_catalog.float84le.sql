@@ -1,0 +1,1 @@
+Code of external routine "float84le"(float84le) is not available

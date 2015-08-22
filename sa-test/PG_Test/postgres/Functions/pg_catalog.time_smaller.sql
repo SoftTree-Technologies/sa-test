@@ -1,0 +1,1 @@
+Code of external routine "time_smaller"(time_smaller) is not available

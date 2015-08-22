@@ -1,0 +1,1 @@
+Code of external routine "pg_operator_is_visible"(pg_operator_is_visible) is not available

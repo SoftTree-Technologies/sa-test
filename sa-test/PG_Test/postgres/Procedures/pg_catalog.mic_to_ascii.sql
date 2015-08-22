@@ -1,0 +1,1 @@
+Code of external routine "mic_to_ascii"(mic_to_ascii) is not available

@@ -1,0 +1,1 @@
+Code of external routine "float4lt"(float4lt) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_autovacuum_count"(pg_stat_get_autovacuum_count) is not available

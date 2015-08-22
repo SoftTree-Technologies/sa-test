@@ -1,0 +1,1 @@
+Code of external routine "networksel"(networksel) is not available

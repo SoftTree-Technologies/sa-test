@@ -1,0 +1,1 @@
+Code of external routine "oidgt"(oidgt) is not available

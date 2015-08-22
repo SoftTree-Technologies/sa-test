@@ -1,0 +1,1 @@
+Code of external routine "dispell_lexize"(dispell_lexize) is not available

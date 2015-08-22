@@ -1,0 +1,1 @@
+Code of external routine "numeric_accum_inv"(numeric_accum_inv) is not available

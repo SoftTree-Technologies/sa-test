@@ -1,0 +1,1 @@
+Code of external routine "latin2_to_win1250"(latin2_to_win1250) is not available

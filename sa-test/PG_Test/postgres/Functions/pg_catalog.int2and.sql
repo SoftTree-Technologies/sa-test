@@ -1,0 +1,1 @@
+Code of external routine "int2and"(int2and) is not available

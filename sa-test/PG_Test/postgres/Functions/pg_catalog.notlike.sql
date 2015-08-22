@@ -1,0 +1,1 @@
+Code of external routine "notlike"(textnlike) is not available

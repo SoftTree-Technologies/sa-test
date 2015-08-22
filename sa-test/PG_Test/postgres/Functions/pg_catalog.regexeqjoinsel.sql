@@ -1,0 +1,1 @@
+Code of external routine "regexeqjoinsel"(regexeqjoinsel) is not available

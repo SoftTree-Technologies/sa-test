@@ -1,0 +1,1 @@
+Code of external routine "bitgt"(bitgt) is not available

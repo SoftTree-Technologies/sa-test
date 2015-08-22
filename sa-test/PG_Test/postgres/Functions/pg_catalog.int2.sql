@@ -1,0 +1,1 @@
+Code of external routine "int2"(dtoi2) is not available

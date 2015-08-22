@@ -1,0 +1,1 @@
+Code of external routine "range_send"(range_send) is not available

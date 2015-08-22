@@ -1,0 +1,1 @@
+Code of external routine "macaddr_cmp"(macaddr_cmp) is not available

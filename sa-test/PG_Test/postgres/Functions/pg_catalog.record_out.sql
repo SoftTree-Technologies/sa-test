@@ -1,0 +1,1 @@
+Code of external routine "record_out"(record_out) is not available

@@ -1,0 +1,1 @@
+Code of external routine "ascii_to_utf8"(ascii_to_utf8) is not available

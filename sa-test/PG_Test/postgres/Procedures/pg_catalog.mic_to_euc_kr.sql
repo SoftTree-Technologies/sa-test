@@ -1,0 +1,1 @@
+Code of external routine "mic_to_euc_kr"(mic_to_euc_kr) is not available

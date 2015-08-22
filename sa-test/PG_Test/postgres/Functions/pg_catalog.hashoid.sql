@@ -1,0 +1,1 @@
+Code of external routine "hashoid"(hashoid) is not available

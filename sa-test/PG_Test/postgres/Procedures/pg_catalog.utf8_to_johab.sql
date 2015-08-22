@@ -1,0 +1,1 @@
+Code of external routine "utf8_to_johab"(utf8_to_johab) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_extension_config_dump"(pg_extension_config_dump) is not available

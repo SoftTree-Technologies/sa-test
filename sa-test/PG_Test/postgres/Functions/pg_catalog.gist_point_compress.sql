@@ -1,0 +1,1 @@
+Code of external routine "gist_point_compress"(gist_point_compress) is not available

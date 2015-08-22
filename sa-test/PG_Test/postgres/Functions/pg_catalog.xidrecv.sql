@@ -1,0 +1,1 @@
+Code of external routine "xidrecv"(xidrecv) is not available

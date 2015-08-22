@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_archiver"(pg_stat_get_archiver) is not available

@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_wal_senders"(pg_stat_get_wal_senders) is not available

@@ -1,0 +1,1 @@
+Code of external routine "int8lt"(int8lt) is not available

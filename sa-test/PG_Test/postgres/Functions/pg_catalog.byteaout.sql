@@ -1,0 +1,1 @@
+Code of external routine "byteaout"(byteaout) is not available

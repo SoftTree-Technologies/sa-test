@@ -1,0 +1,1 @@
+Code of external routine "regexp_split_to_table"(regexp_split_to_table_no_flags) is not available

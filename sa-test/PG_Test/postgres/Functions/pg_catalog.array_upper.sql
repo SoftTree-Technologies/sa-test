@@ -1,0 +1,1 @@
+Code of external routine "array_upper"(array_upper) is not available

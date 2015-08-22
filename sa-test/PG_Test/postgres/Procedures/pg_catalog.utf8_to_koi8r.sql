@@ -1,0 +1,1 @@
+Code of external routine "utf8_to_koi8r"(utf8_to_koi8r) is not available

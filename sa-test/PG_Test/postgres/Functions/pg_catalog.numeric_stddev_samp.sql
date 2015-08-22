@@ -1,0 +1,1 @@
+Code of external routine "numeric_stddev_samp"(numeric_stddev_samp) is not available

@@ -1,0 +1,1 @@
+Code of external routine "cidin"(cidin) is not available

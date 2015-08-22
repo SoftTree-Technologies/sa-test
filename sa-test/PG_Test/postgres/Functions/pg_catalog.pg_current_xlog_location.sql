@@ -1,0 +1,1 @@
+Code of external routine "pg_current_xlog_location"(pg_current_xlog_location) is not available

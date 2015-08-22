@@ -1,0 +1,1 @@
+Code of external routine "btfloat48cmp"(btfloat48cmp) is not available

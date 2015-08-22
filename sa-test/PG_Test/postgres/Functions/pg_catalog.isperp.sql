@@ -1,0 +1,1 @@
+Code of external routine "isperp"(lseg_perp) is not available

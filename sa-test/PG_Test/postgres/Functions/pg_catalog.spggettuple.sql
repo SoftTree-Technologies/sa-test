@@ -1,0 +1,1 @@
+Code of external routine "spggettuple"(spggettuple) is not available

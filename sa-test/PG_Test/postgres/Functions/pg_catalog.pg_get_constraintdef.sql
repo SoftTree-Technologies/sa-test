@@ -1,0 +1,1 @@
+Code of external routine "pg_get_constraintdef"(pg_get_constraintdef) is not available

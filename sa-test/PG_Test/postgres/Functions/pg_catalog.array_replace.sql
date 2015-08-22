@@ -1,0 +1,1 @@
+Code of external routine "array_replace"(array_replace) is not available

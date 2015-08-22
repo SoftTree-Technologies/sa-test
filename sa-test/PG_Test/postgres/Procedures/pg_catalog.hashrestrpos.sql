@@ -1,0 +1,1 @@
+Code of external routine "hashrestrpos"(hashrestrpos) is not available

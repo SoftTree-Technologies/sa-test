@@ -1,0 +1,1 @@
+Code of external routine "circle_mul_pt"(circle_mul_pt) is not available

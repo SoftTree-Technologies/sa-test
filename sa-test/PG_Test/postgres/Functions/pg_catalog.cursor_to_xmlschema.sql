@@ -1,0 +1,1 @@
+Code of external routine "cursor_to_xmlschema"(cursor_to_xmlschema) is not available

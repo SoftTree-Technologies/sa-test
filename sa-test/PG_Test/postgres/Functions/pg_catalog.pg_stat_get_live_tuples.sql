@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_live_tuples"(pg_stat_get_live_tuples) is not available

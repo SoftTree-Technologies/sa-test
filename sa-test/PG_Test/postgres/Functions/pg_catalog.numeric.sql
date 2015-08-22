@@ -1,0 +1,1 @@
+Code of external routine "numeric"(cash_numeric) is not available

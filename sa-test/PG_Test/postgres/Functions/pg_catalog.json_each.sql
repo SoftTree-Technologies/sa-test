@@ -1,0 +1,1 @@
+Code of external routine "json_each"(json_each) is not available

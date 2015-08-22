@@ -1,0 +1,1 @@
+Code of external routine "areasel"(areasel) is not available

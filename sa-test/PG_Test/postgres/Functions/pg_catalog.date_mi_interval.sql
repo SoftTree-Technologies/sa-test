@@ -1,0 +1,1 @@
+Code of external routine "date_mi_interval"(date_mi_interval) is not available

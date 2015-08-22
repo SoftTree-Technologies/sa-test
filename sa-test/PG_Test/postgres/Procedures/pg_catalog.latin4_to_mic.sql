@@ -1,0 +1,1 @@
+Code of external routine "latin4_to_mic"(latin4_to_mic) is not available

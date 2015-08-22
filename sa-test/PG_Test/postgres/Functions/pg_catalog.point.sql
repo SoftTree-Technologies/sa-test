@@ -1,0 +1,1 @@
+Code of external routine "point"(circle_center) is not available

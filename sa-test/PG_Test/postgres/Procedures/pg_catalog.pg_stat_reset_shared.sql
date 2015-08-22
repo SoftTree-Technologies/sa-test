@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_reset_shared"(pg_stat_reset_shared) is not available

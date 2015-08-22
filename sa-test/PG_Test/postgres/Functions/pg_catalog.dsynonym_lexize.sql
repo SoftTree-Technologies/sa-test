@@ -1,0 +1,1 @@
+Code of external routine "dsynonym_lexize"(dsynonym_lexize) is not available

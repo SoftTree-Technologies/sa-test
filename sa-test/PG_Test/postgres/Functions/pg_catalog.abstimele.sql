@@ -1,0 +1,1 @@
+Code of external routine "abstimele"(abstimele) is not available

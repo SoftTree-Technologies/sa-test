@@ -1,0 +1,1 @@
+Code of external routine "gistrestrpos"(gistrestrpos) is not available

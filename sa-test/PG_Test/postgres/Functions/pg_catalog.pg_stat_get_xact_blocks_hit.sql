@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_xact_blocks_hit"(pg_stat_get_xact_blocks_hit) is not available

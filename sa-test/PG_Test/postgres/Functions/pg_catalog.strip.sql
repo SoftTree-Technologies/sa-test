@@ -1,0 +1,1 @@
+Code of external routine "strip"(tsvector_strip) is not available

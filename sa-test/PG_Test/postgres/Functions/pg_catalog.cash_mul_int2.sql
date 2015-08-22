@@ -1,0 +1,1 @@
+Code of external routine "cash_mul_int2"(cash_mul_int2) is not available

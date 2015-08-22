@@ -1,0 +1,1 @@
+Code of external routine "charin"(charin) is not available

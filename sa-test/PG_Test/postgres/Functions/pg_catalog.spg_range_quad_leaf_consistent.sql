@@ -1,0 +1,1 @@
+Code of external routine "spg_range_quad_leaf_consistent"(spg_range_quad_leaf_consistent) is not available

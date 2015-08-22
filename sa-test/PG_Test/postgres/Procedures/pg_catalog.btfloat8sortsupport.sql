@@ -1,0 +1,1 @@
+Code of external routine "btfloat8sortsupport"(btfloat8sortsupport) is not available

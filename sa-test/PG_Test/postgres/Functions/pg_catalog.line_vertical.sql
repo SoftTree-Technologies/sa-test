@@ -1,0 +1,1 @@
+Code of external routine "line_vertical"(line_vertical) is not available

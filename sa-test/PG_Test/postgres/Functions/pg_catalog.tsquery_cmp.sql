@@ -1,0 +1,1 @@
+Code of external routine "tsquery_cmp"(tsquery_cmp) is not available

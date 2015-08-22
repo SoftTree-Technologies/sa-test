@@ -1,0 +1,1 @@
+Code of external routine "texticlike"(texticlike) is not available

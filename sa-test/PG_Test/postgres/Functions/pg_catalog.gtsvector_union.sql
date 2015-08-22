@@ -1,0 +1,1 @@
+Code of external routine "gtsvector_union"(gtsvector_union) is not available

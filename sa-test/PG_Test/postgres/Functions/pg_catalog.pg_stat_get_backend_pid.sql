@@ -1,0 +1,1 @@
+Code of external routine "pg_stat_get_backend_pid"(pg_stat_get_backend_pid) is not available

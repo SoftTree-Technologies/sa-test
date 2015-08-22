@@ -1,0 +1,1 @@
+Code of external routine "xidsend"(xidsend) is not available

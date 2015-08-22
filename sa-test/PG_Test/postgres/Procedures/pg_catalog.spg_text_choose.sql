@@ -1,0 +1,1 @@
+Code of external routine "spg_text_choose"(spg_text_choose) is not available

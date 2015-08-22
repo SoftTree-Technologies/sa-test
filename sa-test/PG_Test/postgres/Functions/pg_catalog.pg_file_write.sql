@@ -1,0 +1,1 @@
+Code of external routine "pg_file_write"(pg_file_write) is not available

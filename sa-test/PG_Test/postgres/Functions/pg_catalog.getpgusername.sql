@@ -1,0 +1,1 @@
+Code of external routine "getpgusername"(current_user) is not available

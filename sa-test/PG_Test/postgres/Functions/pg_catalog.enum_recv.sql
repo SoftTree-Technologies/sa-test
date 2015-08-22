@@ -1,0 +1,1 @@
+Code of external routine "enum_recv"(enum_recv) is not available

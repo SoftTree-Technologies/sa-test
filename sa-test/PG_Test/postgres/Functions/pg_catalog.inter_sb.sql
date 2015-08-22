@@ -1,0 +1,1 @@
+Code of external routine "inter_sb"(inter_sb) is not available

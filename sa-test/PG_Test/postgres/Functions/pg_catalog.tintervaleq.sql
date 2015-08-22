@@ -1,0 +1,1 @@
+Code of external routine "tintervaleq"(tintervaleq) is not available

@@ -1,0 +1,1 @@
+Code of external routine "txid_visible_in_snapshot"(txid_visible_in_snapshot) is not available

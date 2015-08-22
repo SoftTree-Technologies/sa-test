@@ -1,0 +1,1 @@
+Code of external routine "setweight"(tsvector_setweight) is not available

@@ -1,0 +1,1 @@
+Code of external routine "win866_to_iso"(win866_to_iso) is not available

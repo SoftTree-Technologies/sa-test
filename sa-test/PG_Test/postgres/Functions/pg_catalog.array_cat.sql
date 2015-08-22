@@ -1,0 +1,1 @@
+Code of external routine "array_cat"(array_cat) is not available

@@ -1,0 +1,1 @@
+Code of external routine "string_agg_finalfn"(string_agg_finalfn) is not available

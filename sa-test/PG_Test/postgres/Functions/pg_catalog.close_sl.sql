@@ -1,0 +1,1 @@
+Code of external routine "close_sl"(close_sl) is not available

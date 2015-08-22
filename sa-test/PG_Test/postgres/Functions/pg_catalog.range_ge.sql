@@ -1,0 +1,1 @@
+Code of external routine "range_ge"(range_ge) is not available

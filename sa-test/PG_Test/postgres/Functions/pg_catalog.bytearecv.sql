@@ -1,0 +1,1 @@
+Code of external routine "bytearecv"(bytearecv) is not available

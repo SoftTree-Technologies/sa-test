@@ -1,0 +1,1 @@
+Code of external routine "btgettuple"(btgettuple) is not available

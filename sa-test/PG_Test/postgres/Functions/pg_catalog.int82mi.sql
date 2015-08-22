@@ -1,0 +1,1 @@
+Code of external routine "int82mi"(int82mi) is not available

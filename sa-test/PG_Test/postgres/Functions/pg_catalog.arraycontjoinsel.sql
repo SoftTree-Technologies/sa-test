@@ -1,0 +1,1 @@
+Code of external routine "arraycontjoinsel"(arraycontjoinsel) is not available

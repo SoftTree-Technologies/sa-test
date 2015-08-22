@@ -1,0 +1,1 @@
+Code of external routine "gtsquery_consistent"(gtsquery_consistent) is not available

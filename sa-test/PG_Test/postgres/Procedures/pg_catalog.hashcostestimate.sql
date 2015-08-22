@@ -1,0 +1,1 @@
+Code of external routine "hashcostestimate"(hashcostestimate) is not available
