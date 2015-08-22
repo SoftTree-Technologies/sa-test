@@ -1,0 +1,1 @@
+Code of external routine "dblink_fetch"(dblink_fetch) is not available

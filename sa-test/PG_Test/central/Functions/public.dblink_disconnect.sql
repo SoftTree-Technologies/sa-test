@@ -1,0 +1,1 @@
+Code of external routine "dblink_disconnect"(dblink_disconnect) is not available

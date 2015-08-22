@@ -1,0 +1,1 @@
+Code of external routine "dblink_build_sql_delete"(dblink_build_sql_delete) is not available

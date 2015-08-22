@@ -1,0 +1,1 @@
+Code of external routine "dblink_error_message"(dblink_error_message) is not available

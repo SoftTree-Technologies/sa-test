@@ -1,0 +1,1 @@
+Code of external routine "dblink_is_busy"(dblink_is_busy) is not available

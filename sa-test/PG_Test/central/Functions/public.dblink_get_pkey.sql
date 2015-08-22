@@ -1,0 +1,1 @@
+Code of external routine "dblink_get_pkey"(dblink_get_pkey) is not available

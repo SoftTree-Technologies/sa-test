@@ -1,0 +1,1 @@
+Code of external routine "dblink_send_query"(dblink_send_query) is not available

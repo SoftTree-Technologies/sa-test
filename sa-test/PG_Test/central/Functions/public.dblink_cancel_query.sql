@@ -1,0 +1,1 @@
+Code of external routine "dblink_cancel_query"(dblink_cancel_query) is not available

@@ -1,0 +1,1 @@
+Code of external routine "dblink_build_sql_insert"(dblink_build_sql_insert) is not available

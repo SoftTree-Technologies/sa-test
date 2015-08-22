@@ -1,0 +1,1 @@
+Code of external routine "dblink_exec"(dblink_exec) is not available

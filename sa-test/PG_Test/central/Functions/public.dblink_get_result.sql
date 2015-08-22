@@ -1,0 +1,1 @@
+Code of external routine "dblink_get_result"(dblink_get_result) is not available

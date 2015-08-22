@@ -1,0 +1,1 @@
+Code of external routine "dblink_connect"(dblink_connect) is not available

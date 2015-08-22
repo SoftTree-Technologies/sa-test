@@ -1,0 +1,1 @@
+Code of external routine "dblink_current_query"(dblink_current_query) is not available

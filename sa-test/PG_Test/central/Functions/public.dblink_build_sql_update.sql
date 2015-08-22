@@ -1,0 +1,1 @@
+Code of external routine "dblink_build_sql_update"(dblink_build_sql_update) is not available
